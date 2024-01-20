@@ -1,0 +1,23 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"files.associations": {
+		"stdlib.h": "c",
+		"raylib.h": "c",
+		"tile.h": "c",
+		"array": "c",
+		"string_view": "c",
+		"initializer_list": "c",
+		"game.h": "c",
+		"stdio.h": "c",
+		"*.m": "c",
+		"block.h": "c"
+	}
+}
